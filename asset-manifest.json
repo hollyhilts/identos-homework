@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/identos-homework/static/css/main.68b46ee3.css",
+    "main.js": "/identos-homework/static/js/main.08317d8c.js",
+    "static/js/787.eaaa1257.chunk.js": "/identos-homework/static/js/787.eaaa1257.chunk.js",
+    "index.html": "/identos-homework/index.html",
+    "main.68b46ee3.css.map": "/identos-homework/static/css/main.68b46ee3.css.map",
+    "main.08317d8c.js.map": "/identos-homework/static/js/main.08317d8c.js.map",
+    "787.eaaa1257.chunk.js.map": "/identos-homework/static/js/787.eaaa1257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b46ee3.css",
+    "static/js/main.08317d8c.js"
+  ]
+}
